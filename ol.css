@@ -1,0 +1,14 @@
+h1,h2{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid lightslategrey;
+    margin-right: 85%;
+
+}
+h1:hover{
+    background-color: limegreen;
+}
+h2:hover{
+    background-color: limegreen;
+}
