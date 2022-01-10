@@ -1,0 +1,14 @@
+section,img{
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+section,div{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+#pos-id{
+    position: ;
+}
