@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    
+    margin-right: 10px;
+    padding: 5px;
+    background-color: blanchedalmond;
+    color: black;
+    border-radius: 2px;
+}
+a:hover{
+    background-color: cadetblue;
+}
